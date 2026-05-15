@@ -1,0 +1,10 @@
+# 1. Ignorer absolument tout
+/*
+
+# 2. Créer des exceptions pour ce qu'on veut garder
+!pokedex.sh
+!/.gitignore
+
+# Optionnel : si tu as un dossier de documentation ou un README plus tard
+n!README.md
+
